@@ -1,0 +1,5 @@
+.spinDiv {
+    position: fixed;
+    left: calc(50% - 40px);
+    top: calc(10% - 40px);
+}
